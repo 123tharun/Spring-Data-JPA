@@ -1,2 +1,6 @@
 go to the folder with the same name as the repository name
-
+git init
+git add .
+git remote add github repo.git
+git remote -v
+git push -f github master
